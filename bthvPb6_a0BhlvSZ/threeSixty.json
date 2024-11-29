@@ -1,0 +1,71 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "5wrpcTpQond",
+  "title": "How green are you",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Green"
+    },
+    {
+      "title": "HOME"
+    },
+    {
+      "title": "WORK"
+    },
+    {
+      "title": "TRAVEL"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6g4PIYrehcP",
+      "title": "Intro",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5VMbThLaLxr",
+      "title": "Info",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5uiMGEBrCWP",
+      "title": "Questions",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5x8dM80SOuJ",
+      "title": "Home Results",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5eKkkAsthDj",
+      "title": "Questions",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6eCiqihmQIk",
+      "title": "Work Results",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5x6tftuIAO2",
+      "title": "Questions",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6HJFZEMOb3u",
+      "title": "Travel Results",
+      "scene_index": "4.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
